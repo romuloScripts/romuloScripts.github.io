@@ -17,7 +17,7 @@ a:hover{
 }
 .banner{
     position:fixed;
-    background:#000 url(../img/banner.png) center center;
+    background:#000 url(../img/banner.jpg) center center;
     background-size:cover;
     width:45%;
     height:100%;
