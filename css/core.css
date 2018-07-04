@@ -17,16 +17,16 @@ a:hover{
 }
 .banner{
     position:fixed;
-    background:#000 url(../img/banner.jpg) center center;
+    background:#000 url(../img/banner.jpg) left center;
     background-size:cover;
-    width:45%;
+    width:42%;
     height:100%;
     float:left;
     z-index:100
 }
 .content{
     position:relative;
-    width:55%;
+    width:58%;
     min-height:100%;
     float:right;
     overflow-x:hidden;
