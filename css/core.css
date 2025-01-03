@@ -151,20 +151,20 @@ a:hover{
     cursor:pointer;
     overflow:hidden
 }
-.portfolio .section .list .preview:nth-child(-n+4){
+.portfolio .section .list .preview:nth-child(-n+6){
     width:49.5%
 }
-.portfolio .section .list .preview:nth-child(-2n+4){
+.portfolio .section .list .preview:nth-child(-2n+6){
     margin-right:0
 }
-.portfolio .section .list .preview:nth-child(n+5){
+.portfolio .section .list .preview:nth-child(n+7){
     width:32.667%;
     height:120px
 }
-.portfolio .section .list .preview:nth-child(n+5) h2{
+.portfolio .section .list .preview:nth-child(n+7) h2{
     font-size:1.1em
 }
-.portfolio .section .list .preview:nth-child(3n+7){
+.portfolio .section .list .preview:nth-child(3n+9){
     margin-right:0
 }
 .portfolio .section .list .preview .bg{
